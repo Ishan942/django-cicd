@@ -1,2 +1,1 @@
-"# shubham" 
-"# django-cicd-configuration-files" 
+Django CICD PIPELINE CODE
